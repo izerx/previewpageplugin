@@ -1,4 +1,4 @@
-# Preview Page Plugin v 1.0.0
+# Preview Page Plugin v 2.0.0
 
 ## Install
 1) Press download this repository
