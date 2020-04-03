@@ -37,7 +37,7 @@ function render_previews()
         div.appendChild(loader_div)
     
         img = document.createElement('img')
-        img.src = "http://192.168.0.148:8000/api?url=" + child_links[i].parentElement.href
+        img.src = "http://45.143.139.30/api?url=" + child_links[i].parentElement.href
         img.onload = function(){
             this.parentElement.firstChild.remove()
         }
